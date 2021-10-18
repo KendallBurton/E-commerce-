@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# e-commerce
+# APP_NAME_HERE
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -28,22 +28,14 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-[] User can create a new account
-[] User can sign in with an existing account
-[] User can see tha available items in the main screen (with photo, price, title, and description)
-[] User can search for a product
-[] User can add a product to the shopping cart
-[] User can pay for teh shopping cart items
-
-
+* Users can create a new account
+* User can sign in with an existing account
+* ...
 
 **Optional Nice-to-have Stories**
 
-[] User can fill his/hers profile
-[] User can use filters
-[] User can define payments resources
-[] User can send messages to the seller
-
+* [fill in your required user stories here]
+* ...
 
 ### 2. Screen Archetypes
 
