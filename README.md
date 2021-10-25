@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Small e-commerce application that allows users to purchase and ship items.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -30,12 +30,13 @@ Original App Design Project - README Template
 
 * Users can create a new account
 * User can sign in with an existing account
-* ...
+* Users can view items on feed
+* Users can purchase and sell items
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can add Paypal
+* Users can view local sellers with google maps
 
 ### 2. Screen Archetypes
 
