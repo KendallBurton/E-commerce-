@@ -82,7 +82,7 @@ Small E-commerce app that allows Users to view, ship and sell their product.
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/KendallBurton/E-commerce-/blob/main/wirefram%20rev1.2.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
