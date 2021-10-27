@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-Small e-commerce application that allows users to purchase and ship items.
+Small E-commerce app that allows Users to view, ship and sell their product.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -30,22 +30,38 @@ Small e-commerce application that allows users to purchase and ship items.
 
 * Users can create a new account
 * User can sign in with an existing account
-* Users can view items on feed
-* Users can purchase and sell items
+* User can see tha available items in the main screen (with photo, price, title, and description
+* User can search for a product
+* User can add a product to the shopping cart
+* User can pay for the shopping cart items
 
 **Optional Nice-to-have Stories**
 
-* Users can add Paypal
-* Users can view local sellers with google maps
+* Users can pay with paypal and other credit cards
+* Users can filter product view 
+* User can fill his/hers profile
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+   * User can login
+* Sign Up Screen
+   * User can create a new account
+* Stream ( Shop Screen )
+   * User can view items for sell
+   * User can view item details
+   * User can add item to card
+* Creation ( Item creation )
+   * User can post new photo of item
+   * User can add item details (description, price, etc)
+   * User can add item to global feed
+* User Profile Screen
+   * User can edit info
+   * User can add payment
+* Checkout Screen
+   * View items added to card
+   * Select payment method
+ 
 
 ### 3. Navigation
 
@@ -57,15 +73,16 @@ Small e-commerce application that allows users to purchase and ship items.
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
+* Login Screen
+   * => Sign up
+   * => Home
+* Sign Up
+   * => Home
    * ...
 
 ## Wireframes
-<img src="https://github.com/KendallBurton/E-commerce-/blob/main/wirefram.png" width=600>
+[Add picture of your hand sketched wireframes in this section]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
