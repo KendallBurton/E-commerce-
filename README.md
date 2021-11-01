@@ -94,6 +94,10 @@ Small E-commerce app that allows Users to view, ship and sell their product.
 | Property | Type |	Description |
 | -------- | ---- | ----------- |
 | objectid | String | unique id for item post |
+| image | File | image the user posts |
+| caption | String | image caption by author |
+| author | Pointer to user | image author |
+| createdAt | DateTime | date when post is created |
 
 
 ### Networking
