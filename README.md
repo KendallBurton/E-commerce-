@@ -91,9 +91,11 @@ Small E-commerce app that allows Users to view, ship and sell their product.
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-Property	Type	Description
-objectId	String	unique id for the user post (default field)
-author	Pointer to User	image author
+| Property | Type |	Description |
+| -------- | ---- | ----------- |
+| objectid | String | unique id for item post |
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
