@@ -101,5 +101,5 @@ Small E-commerce app that allows Users to view, ship and sell their product.
 
 
 ### Networking
-*Currenty working on building out own database for network requests
+*Currenty working on building our own database for network requests
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
