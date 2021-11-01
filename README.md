@@ -101,6 +101,5 @@ Small E-commerce app that allows Users to view, ship and sell their product.
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+*Currenty working on building out own database for network requests
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
